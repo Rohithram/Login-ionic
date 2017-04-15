@@ -1,0 +1,13 @@
+<ion-view view-title="Dashboard">
+  <ion-content class="padding">
+    <h2>Welcome to Rohith's Ionic Chat app!</h2>
+    <p>
+    This is the chatroom app using ionic framework.
+    </p>
+    <p>
+   	Currently This app only uses Login authentication and doesn't have Logout capability.Check out for the updates!
+    </p>
+    <p>
+    The login credentials are : <label>Username: </label>admin <label>Password:</label> password2017</p>
+  </ion-content>
+</ion-view>
